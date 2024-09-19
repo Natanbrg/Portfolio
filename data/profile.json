@@ -46,5 +46,12 @@
             "url": "https://github.com/Natanbrg/Page-Discord-MobileFirst",
             "github": "true"
         }
+    ],
+    "professionalExperience": [
+        {
+            "name": "Junior developer",
+            "period": "2020 - até o momento",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
     ]
 }
