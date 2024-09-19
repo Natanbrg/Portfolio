@@ -39,5 +39,12 @@
     "languages": [
         "Português",
         "Inglês (básico)"
+    ],
+    "portifolio": [
+        {
+            "name":  "Discord mobile page",
+            "url": "https://github.com/Natanbrg/Page-Discord-MobileFirst",
+            "git": "true"
+        }
     ]
 }
