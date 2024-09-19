@@ -44,7 +44,7 @@
         {
             "name":  "Discord mobile page",
             "url": "https://github.com/Natanbrg/Page-Discord-MobileFirst",
-            "git": "true"
+            "github": "true"
         }
     ]
 }
